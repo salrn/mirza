@@ -1,10 +1,10 @@
 {
-    "keyboard_name": AGK 12 QK,
-    "manufacturer": mirza's tech,
+    "keyboard_name": "AGK 12 QK",
+    "manufacturer": "mirza's tech",
     "url": "https://mirzasnetwork.xyz/products/keyboards/agk12qk/view",
     "maintainer": "cederlys, salrn",
     "bootloader": "sn32-dfu",
-    "bootloader_instructions": https://github.com/salrn/mirza/blob/main/keyboard/AGK_series/AGK12QK_rev1/readmeinfo.md,
+    "bootloader_instructions": "https://github.com/salrn/mirza/blob/main/keyboard/AGK_series/AGK12QK_rev1/readmeinfo.md",
 
     "processor": "SN32F248BF",
     "usb": {
